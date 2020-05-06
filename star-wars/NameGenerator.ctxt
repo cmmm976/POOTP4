@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NameGenerator()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ NameGenerator\ by\ default\n
+comment1.params=person
+comment1.target=NameGenerator(Person)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ NameGenerator;\ takes\ a\ person\ as\ argument\n
+comment2.params=persons
+comment2.target=NameGenerator(java.util.ArrayList)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ NameGenerator;\ takes\ an\ array\ of\ persons\ as\ argument\n
+comment3.params=person
+comment3.target=void\ addPerson(Person)
+comment3.text=\n\ add\ a\ new\ Person\ in\ the\ name\ generator\n
+comment4.params=person
+comment4.target=java.lang.String\ generateName(Person)
+comment4.text=\n\ generate\ a\ Person\ (given\ as\ argument)\ nickname\ based\ on\ their\ infos\n
+numComments=5
